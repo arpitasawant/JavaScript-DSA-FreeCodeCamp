@@ -1,0 +1,11 @@
+#check-btn{
+    background-color: green;
+    color: white;
+    border-color: black;
+}
+
+#clear-btn{
+  background-color: red;
+    color: white;
+    border-color: black;
+}
